@@ -1,0 +1,72 @@
+{
+  "slug": "brain_glitch_001_three_illusions",
+  "title": "3 Illusions Your Brain Can't Unsee 🤯 #shorts",
+  "description": "These lines are perfectly straight... so why does every row look tilted? Three classic optical illusions (café wall, stepping feet and simultaneous contrast), explained in under a minute.\n\nSubscribe for a new brain glitch every day.\n\n#opticalillusion #illusion #brain #psychology #science #shorts",
+  "tags": ["optical illusion", "illusions", "brain teaser", "cafe wall illusion", "stepping feet illusion", "same color illusion", "psychology", "science shorts", "mind blowing"],
+  "voice": "am_michael",
+  "speed": 1.12,
+  "music_db": -22,
+  "caption_y": 1470,
+  "thumb_at": 1.0,
+  "thumb_text": ["THESE LINES", "ARE STRAIGHT"],
+  "segments": [
+    {
+      "scene": "cafe_wall",
+      "text": "These lines are perfectly straight.",
+      "push": 0.05
+    },
+    {
+      "scene": "cafe_wall",
+      "text": "But your brain refuses to believe it. Every row looks tilted, right?",
+      "callouts": [{"type": "circle", "x": 540, "y": 490, "r": 150, "at_word": "tilted,"}],
+      "focus": [540, 600]
+    },
+    {
+      "scene": "cafe_wall",
+      "text": "Watch what happens when I lay a ruler across.",
+      "params": {"rulers": 1}
+    },
+    {
+      "scene": "cafe_wall",
+      "text": "Dead straight. The shifted tiles fool the edge detectors in your eyes.",
+      "params": {"rulers": 2, "dim_tiles": true}
+    },
+    {
+      "scene": "stepping_feet",
+      "text": "Now look at these two blocks. They take turns, like feet walking.",
+      "params": {"stripes": 1.0},
+      "push": 0.03
+    },
+    {
+      "scene": "stepping_feet",
+      "text": "Wrong. Take the stripes away,",
+      "params": {"stripes": [1.0, 0.0]}
+    },
+    {
+      "scene": "stepping_feet",
+      "text": "and they were moving together the entire time.",
+      "params": {"stripes": 0.0, "sync_line": true}
+    },
+    {
+      "scene": "same_color",
+      "text": "Last one. Which square is darker? A, or B?",
+      "callouts": [
+        {"type": "circle", "x": 270, "y": 960, "r": 190, "at_word": "A,"},
+        {"type": "circle", "x": 810, "y": 960, "r": 190, "at_word": "B?"}
+      ],
+      "push": 0.03
+    },
+    {
+      "scene": "same_color",
+      "text": "Neither. They're the exact same grey. Connect them, and the trick falls apart.",
+      "params": {"bridge": true, "flatten": true, "labels": true}
+    },
+    {
+      "scene": "end_card",
+      "text": "Subscribe for a new brain glitch every day.",
+      "params": {"channel": "BRAIN GLITCH"},
+      "punch": false,
+      "push": 0.0
+    }
+  ]
+}

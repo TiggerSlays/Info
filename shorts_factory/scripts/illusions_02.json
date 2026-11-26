@@ -1,0 +1,58 @@
+{
+  "slug": "brain_glitch_002_stare_test",
+  "title": "Stare At The Cross For 10 Seconds 😳 #shorts",
+  "description": "Don't move your eyes... a green dot appears out of nowhere, then a black-and-white photo turns full colour. Two classic perception illusions (the lilac chaser and the negative afterimage).\n\nSubscribe for a new brain glitch every day.\n\n#opticalillusion #illusion #staretest #brain #psychology #shorts",
+  "tags": ["optical illusion", "stare test", "lilac chaser", "afterimage illusion", "brain trick", "psychology", "science shorts", "mind blowing"],
+  "voice": "am_michael",
+  "speed": 1.08,
+  "music_db": -24,
+  "caption_y": 1470,
+  "thumb_at": 2.0,
+  "thumb_text": ["STARE AT", "THE CROSS"],
+  "segments": [
+    {
+      "scene": "lilac_chaser",
+      "text": "Stare at the black cross. Do not move your eyes.",
+      "punch": false, "push": 0.0
+    },
+    {
+      "scene": "lilac_chaser",
+      "text": "Keep staring. In a few seconds, a green dot starts spinning around.",
+      "punch": false, "push": 0.0, "hold": 4.5
+    },
+    {
+      "scene": "lilac_chaser",
+      "text": "Now the pink dots are disappearing.",
+      "punch": false, "push": 0.0, "hold": 3.5
+    },
+    {
+      "scene": "lilac_chaser",
+      "text": "There is no green dot. Your eyes are inventing it.",
+      "punch": false, "push": 0.0
+    },
+    {
+      "scene": "afterimage",
+      "text": "Next. Stare at the red dot on this weird picture. Don't blink.",
+      "params": {"mode": "negative"},
+      "punch": false, "push": 0.0
+    },
+    {
+      "scene": "afterimage",
+      "text": "Hold it.",
+      "params": {"mode": "negative", "countdown": true},
+      "punch": false, "push": 0.0, "hold": 9.0
+    },
+    {
+      "scene": "afterimage",
+      "text": "Now. It's in full colour, right? This picture is black and white.",
+      "params": {"mode": "gray"},
+      "punch": false, "push": 0.0, "hold": 5.0
+    },
+    {
+      "scene": "end_card",
+      "text": "Subscribe for a new brain glitch every day.",
+      "params": {"channel": "BRAIN GLITCH"},
+      "punch": false, "push": 0.0
+    }
+  ]
+}
