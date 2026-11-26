@@ -1,0 +1,372 @@
+{
+ "Animated POV / explained (TubeGen examples)": [
+  {
+   "name": "Overscaled",
+   "subs": 20900,
+   "total_views": 6032619,
+   "videos": 64,
+   "est_rev": "$1,000",
+   "as_of": "2026-11-26",
+   "subs_28d": 800.0,
+   "views_per_day": 21516.0,
+   "uploads_28d": 12,
+   "country": null,
+   "category": "Autos-&-Vehicles",
+   "joined": "2017-05-23",
+   "top": [
+    {
+     "title": "The Biggest Machines Ever Built Explained",
+     "format": "Long-form",
+     "date": "2026-03-17",
+     "views": 1038237.0,
+     "outlier": ">100x"
+    },
+    {
+     "title": "The Fastest Machines Ever Built Explained",
+     "format": "Long-form",
+     "date": "2026-06-17",
+     "views": 798369.0,
+     "outlier": "3.84x"
+    },
+    {
+     "title": "Most Expensive Machines in Each Category",
+     "format": "Long-form",
+     "date": "2026-05-24",
+     "views": 438273.0,
+     "outlier": "4.54x"
+    },
+    {
+     "title": "Every Police Vehicle Explained",
+     "format": "Long-form",
+     "date": "2026-05-17",
+     "views": 362190.0,
+     "outlier": "5.09x"
+    },
+    {
+     "title": "The Biggest Military Machines Ever Built Explained",
+     "format": "Long-form",
+     "date": "2026-05-02",
+     "views": 302825.0,
+     "outlier": "4.26x"
+    }
+   ],
+   "latest": [
+    {
+     "title": "Every Engine With a Strange Mechanism Explained",
+     "format": "Long-form",
+     "date": "2026-11-24",
+     "views": 12553.0,
+     "outlier": "2.34x"
+    },
+    {
+     "title": "The Biggest Aircraft in Each Category",
+     "format": "Long-form",
+     "date": "2026-11-23",
+     "views": 44464.0,
+     "outlier": "14.86x"
+    },
+    {
+     "title": "The Biggest Helicopter Ever Made",
+     "format": "Long-form",
+     "date": "2026-11-22",
+     "views": 3869.0,
+     "outlier": "1.6x"
+    },
+    {
+     "title": "The Biggest Ships in Each Category",
+     "format": "Long-form",
+     "date": "2026-11-21",
+     "views": 68630.0,
+     "outlier": "22.4x"
+    },
+    {
+     "title": "The Fastest Helicopter Ever Made",
+     "format": "Long-form",
+     "date": "2026-11-20",
+     "views": 2814.0,
+     "outlier": "-"
+    }
+   ],
+   "latest_shorts_n": 0,
+   "latest_shorts_median": null,
+   "latest_shorts_max": null,
+   "id": "@Overscaled"
+  },
+  {
+   "name": "Overscaled",
+   "subs": 20900,
+   "total_views": 6032619,
+   "videos": 64,
+   "est_rev": "$1,000",
+   "as_of": "2026-11-26",
+   "subs_28d": 800.0,
+   "views_per_day": 21516.0,
+   "uploads_28d": 12,
+   "country": null,
+   "category": "Autos-&-Vehicles",
+   "joined": "2017-05-23",
+   "top": [
+    {
+     "title": "The Biggest Machines Ever Built Explained",
+     "format": "Long-form",
+     "date": "2026-03-17",
+     "views": 1038237.0,
+     "outlier": ">100x"
+    },
+    {
+     "title": "The Fastest Machines Ever Built Explained",
+     "format": "Long-form",
+     "date": "2026-06-17",
+     "views": 798369.0,
+     "outlier": "3.84x"
+    },
+    {
+     "title": "Most Expensive Machines in Each Category",
+     "format": "Long-form",
+     "date": "2026-05-24",
+     "views": 438273.0,
+     "outlier": "4.54x"
+    },
+    {
+     "title": "Every Police Vehicle Explained",
+     "format": "Long-form",
+     "date": "2026-05-17",
+     "views": 362190.0,
+     "outlier": "5.09x"
+    },
+    {
+     "title": "The Biggest Military Machines Ever Built Explained",
+     "format": "Long-form",
+     "date": "2026-05-02",
+     "views": 302825.0,
+     "outlier": "4.26x"
+    }
+   ],
+   "latest": [
+    {
+     "title": "Every Engine With a Strange Mechanism Explained",
+     "format": "Long-form",
+     "date": "2026-11-24",
+     "views": 12553.0,
+     "outlier": "2.34x"
+    },
+    {
+     "title": "The Biggest Aircraft in Each Category",
+     "format": "Long-form",
+     "date": "2026-11-23",
+     "views": 44464.0,
+     "outlier": "14.86x"
+    },
+    {
+     "title": "The Biggest Helicopter Ever Made",
+     "format": "Long-form",
+     "date": "2026-11-22",
+     "views": 3869.0,
+     "outlier": "1.6x"
+    },
+    {
+     "title": "The Biggest Ships in Each Category",
+     "format": "Long-form",
+     "date": "2026-11-21",
+     "views": 68630.0,
+     "outlier": "22.4x"
+    },
+    {
+     "title": "The Fastest Helicopter Ever Made",
+     "format": "Long-form",
+     "date": "2026-11-20",
+     "views": 2814.0,
+     "outlier": "-"
+    }
+   ],
+   "latest_shorts_n": 0,
+   "latest_shorts_median": null,
+   "latest_shorts_max": null,
+   "id": "@overscaled"
+  },
+  {
+   "name": "POVrank",
+   "subs": 75000,
+   "total_views": 10743190,
+   "videos": 91,
+   "est_rev": "$0",
+   "as_of": "2026-11-26",
+   "subs_28d": 5600.0,
+   "views_per_day": null,
+   "uploads_28d": 1,
+   "country": "United States",
+   "category": "News-&-Politics",
+   "joined": "2026-03-03",
+   "top": [
+    {
+     "title": "Your Life as Every Rank in Pablo Escobar's Medell\u00edn Cartel",
+     "format": "Long-form",
+     "date": "2026-08-21",
+     "views": 1049283.0,
+     "outlier": "3.31x"
+    },
+    {
+     "title": "Your Life as Every Rank in North Korea's Army",
+     "format": "Long-form",
+     "date": "2026-08-06",
+     "views": 921362.0,
+     "outlier": "13.39x"
+    },
+    {
+     "title": "Your Life as Every Rank in the Mafia",
+     "format": "Long-form",
+     "date": "2026-07-17",
+     "views": 590028.0,
+     "outlier": "6.15x"
+    },
+    {
+     "title": "Your Life as Every SWAT Rank",
+     "format": "Long-form",
+     "date": "2026-03-13",
+     "views": 504791.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as a SWAT Operator",
+     "format": "Long-form",
+     "date": "2026-04-30",
+     "views": 499430.0,
+     "outlier": "-"
+    }
+   ],
+   "latest": [
+    {
+     "title": "POVrank update",
+     "format": "Long-form",
+     "date": "2026-11-23",
+     "views": 1956.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as Every Rank in the British Empire",
+     "format": "Long-form",
+     "date": "2026-10-24",
+     "views": 71744.0,
+     "outlier": "1.23x"
+    },
+    {
+     "title": "We have a problem......",
+     "format": "Long-form",
+     "date": "2026-10-24",
+     "views": 8768.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as Every Rank in the Russian Empire (the Tsar's Court)",
+     "format": "Long-form",
+     "date": "2026-10-22",
+     "views": 27110.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as Every Rank in the British Royal Household",
+     "format": "Long-form",
+     "date": "2026-10-20",
+     "views": 219353.0,
+     "outlier": "2.67x"
+    }
+   ],
+   "latest_shorts_n": 0,
+   "latest_shorts_median": null,
+   "latest_shorts_max": null,
+   "id": "@POVrank"
+  },
+  {
+   "name": "POVrank",
+   "subs": 75000,
+   "total_views": 10743190,
+   "videos": 91,
+   "est_rev": "$0",
+   "as_of": "2026-11-26",
+   "subs_28d": 5600.0,
+   "views_per_day": null,
+   "uploads_28d": 1,
+   "country": "United States",
+   "category": "News-&-Politics",
+   "joined": "2026-03-03",
+   "top": [
+    {
+     "title": "Your Life as Every Rank in Pablo Escobar's Medell\u00edn Cartel",
+     "format": "Long-form",
+     "date": "2026-08-21",
+     "views": 1049283.0,
+     "outlier": "3.31x"
+    },
+    {
+     "title": "Your Life as Every Rank in North Korea's Army",
+     "format": "Long-form",
+     "date": "2026-08-06",
+     "views": 921362.0,
+     "outlier": "13.39x"
+    },
+    {
+     "title": "Your Life as Every Rank in the Mafia",
+     "format": "Long-form",
+     "date": "2026-07-17",
+     "views": 590028.0,
+     "outlier": "6.15x"
+    },
+    {
+     "title": "Your Life as Every SWAT Rank",
+     "format": "Long-form",
+     "date": "2026-03-13",
+     "views": 504791.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as a SWAT Operator",
+     "format": "Long-form",
+     "date": "2026-04-30",
+     "views": 499430.0,
+     "outlier": "-"
+    }
+   ],
+   "latest": [
+    {
+     "title": "POVrank update",
+     "format": "Long-form",
+     "date": "2026-11-23",
+     "views": 1956.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as Every Rank in the British Empire",
+     "format": "Long-form",
+     "date": "2026-10-24",
+     "views": 71744.0,
+     "outlier": "1.23x"
+    },
+    {
+     "title": "We have a problem......",
+     "format": "Long-form",
+     "date": "2026-10-24",
+     "views": 8768.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as Every Rank in the Russian Empire (the Tsar's Court)",
+     "format": "Long-form",
+     "date": "2026-10-22",
+     "views": 27110.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Your Life as Every Rank in the British Royal Household",
+     "format": "Long-form",
+     "date": "2026-10-20",
+     "views": 219353.0,
+     "outlier": "2.67x"
+    }
+   ],
+   "latest_shorts_n": 0,
+   "latest_shorts_median": null,
+   "latest_shorts_max": null,
+   "id": "@povrank"
+  }
+ ]
+}
