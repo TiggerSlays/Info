@@ -1,0 +1,583 @@
+{
+ "Science / facts explainers (faceless)": [
+  {
+   "name": "Ridddle UA",
+   "subs": 3530000,
+   "total_views": 74723478,
+   "videos": 332,
+   "est_rev": "$610",
+   "as_of": "2026-11-26",
+   "subs_28d": 0,
+   "views_per_day": 38677.0,
+   "uploads_28d": 4,
+   "country": "Ukraine",
+   "category": "Education",
+   "joined": "2014-02-26",
+   "top": [
+    {
+     "title": "\u0417\u0430\u0431\u043e\u0440\u043e\u043d\u0435\u043d\u0430 \u0446\u0435\u0440\u043a\u0432\u043e\u044e \u043a\u043d\u0438\u0433\u0430 \u0415\u043d\u043e\u0445\u0430 \u0440\u043e\u0437\u043a\u0440\u0438\u0432\u0430\u0454 \u043f\u0440\u0438\u0433\u043e\u043b\u043e\u043c\u0448\u043b\u0438\u0432\u0456 \u0442\u0430\u0454\u043c\u043d\u0438\u0446\u0456 \u043d\u0430\u0448\u043e\u0456\u0308",
+     "format": "Long-form",
+     "date": "2024-06-07",
+     "views": 1781526.0,
+     "outlier": "-"
+    },
+    {
+     "title": "\u041d\u043e\u0432\u0435 \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0442\u044f \u0432\u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0456 \u0412\u0435\u043b\u0438\u043a\u043e\u0456\u0308 \u043f\u0456\u0440\u0430\u043c\u0456\u0434\u0438! \u0429\u043e \u0437\u043d\u0430\u0438\u0306\u0448\u043b\u0438 \u0442\u0430\u043c \u0432\u0447\u0435\u043d\u0456?",
+     "format": "Long-form",
+     "date": "2024-06-18",
+     "views": 1642433.0,
+     "outlier": "-"
+    },
+    {
+     "title": "\u0411\u0440\u0443\u0434\u043d\u0456 \u0442\u0430\u0454\u043c\u043d\u0438\u0446\u0456 \u0412\u0430\u0442\u0438\u043a\u0430\u043d\u0443, \u044f\u043a\u0456 \u043f\u0440\u0438\u0445\u043e\u0432\u0443\u0432\u0430\u043b\u0438 \u0432\u0456\u0434 \u043d\u0430\u0441 \u0442\u0438\u0441\u044f\u0447\u0456 \u0440\u043e\u043a\u0456\u0432",
+     "format": "Long-form",
+     "date": "2024-05-14",
+     "views": 1326725.0,
+     "outlier": "-"
+    },
+    {
+     "title": "2000-\u0440\u0456\u0447\u043d\u0430 \u0411\u0456\u0431\u043b\u0456\u044f \u0440\u043e\u0437\u043a\u0440\u0438\u043b\u0430 \u0437\u0430\u0433\u0443\u0431\u043b\u0435\u043d\u0438\u0438\u0306 \u0440\u043e\u0437\u0434\u0456\u043b \u0437 \u043c\u043e\u0442\u043e\u0440\u043e\u0448\u043d\u0438\u043c\u0438 \u043f\u043e\u0434\u0440\u043e\u0431\u0438\u0446\u044f\u043c",
+     "format": "Long-form",
+     "date": "2024-07-09",
+     "views": 1194771.0,
+     "outlier": "-"
+    },
+    {
+     "title": "\u041f\u0456\u0434 \u043a\u0440\u0438\u0433\u043e\u044e \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0438 \u0437\u043d\u0430\u0439\u0434\u0435\u043d\u043e \u043f\u0456\u0440\u0430\u043c\u0456\u0434\u0438!",
+     "format": "Long-form",
+     "date": "2024-04-26",
+     "views": 1190807.0,
+     "outlier": "-"
+    }
+   ],
+   "latest": [
+    {
+     "title": "\u042f\u043a \u041d\u0410\u0421\u041f\u0420\u0410\u0412\u0414\u0406 \u0432\u0438\u0433\u043b\u044f\u0434\u0430\u0454 \u0421\u043e\u043d\u044f\u0447\u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0430?",
+     "format": "Long-form",
+     "date": "2026-11-21",
+     "views": 59089.0,
+     "outlier": "-"
+    },
+    {
+     "title": "\u0414\u0435\u0432'\u044f\u0442\u0430 \u043f\u043b\u0430\u043d\u0435\u0442\u0430 \u2014 \u0446\u0435 \u0427\u041e\u0420\u041d\u0410 \u0414\u0406\u0420\u0410?",
+     "format": "Long-form",
+     "date": "2026-11-13",
+     "views": 80712.0,
+     "outlier": "-"
+    },
+    {
+     "title": "2 \u0433\u043e\u0434\u0438\u043d\u0438 \u0432 \u043f\u0435\u043a\u043b\u0456: \u042f\u043a \u043b\u044e\u0434\u0441\u0442\u0432\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u043b\u043e \u041f\u0415\u0420\u0428\u0415 \u0444\u043e\u0442\u043e \u0437 \u0412\u0435\u043d\u0435\u0440\u0438",
+     "format": "Long-form",
+     "date": "2026-11-06",
+     "views": 203678.0,
+     "outlier": "1.67x"
+    },
+    {
+     "title": "TON 618: \u041d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0430 \u0432\u0456\u0434\u043e\u043c\u0430 \u0447\u043e\u0440\u043d\u0430 \u0434\u0456\u0440\u0430 \u0443 \u0412\u0441\u0435\u0441\u0432\u0456\u0442\u0456",
+     "format": "Long-form",
+     "date": "2026-10-30",
+     "views": 118416.0,
+     "outlier": "-"
+    },
+    {
+     "title": "\u041d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0430 \u0456\u043b\u044e\u0437\u0456\u044f \u0412\u0441\u0435\u0441\u0432\u0456\u0442\u0443: \u044f\u043a \u0447\u043e\u0440\u043d\u0456 \u0434\u0456\u0440\u0438 \u043e\u0431\u0434\u0443\u0440\u0438\u043b\u0438 \u0430\u0441\u0442\u0440\u043e\u043d\u043e\u043c\u0456\u0432",
+     "format": "Long-form",
+     "date": "2026-10-24",
+     "views": 65224.0,
+     "outlier": "-"
+    }
+   ],
+   "latest_shorts_n": 0,
+   "latest_shorts_median": null,
+   "latest_shorts_max": null,
+   "id": "@Ridddle"
+  },
+  {
+   "name": "Zack D. Films",
+   "subs": 29900000,
+   "total_views": 84083652529,
+   "videos": 4277,
+   "est_rev": "$84,000",
+   "as_of": "2026-11-26",
+   "subs_28d": 500000.0,
+   "views_per_day": 88745618.0,
+   "uploads_28d": 136,
+   "country": null,
+   "category": "Entertainment",
+   "joined": "2021-06-07",
+   "top": [
+    {
+     "title": "How Stitches Work \ud83d\ude2f",
+     "format": "Short",
+     "date": "2024-02-24",
+     "views": 255855526.0,
+     "outlier": "9.93x"
+    },
+    {
+     "title": "How Splinters Get Unstuck \ud83d\ude32",
+     "format": "Short",
+     "date": "2024-03-05",
+     "views": 216943509.0,
+     "outlier": "6.23x"
+    },
+    {
+     "title": "The Reason The McFlurry Spoon Looks Weird \ud83d\ude2e",
+     "format": "Short",
+     "date": "2022-12-19",
+     "views": 167265662.0,
+     "outlier": "-"
+    },
+    {
+     "title": "How Long Are Your Blood Vessels? \ud83e\udd14",
+     "format": "Short",
+     "date": "2024-04-06",
+     "views": 158034966.0,
+     "outlier": "4.26x"
+    },
+    {
+     "title": "Could Ancient Armor Stop Bullets? \ud83e\udd14",
+     "format": "Short",
+     "date": "2024-07-08",
+     "views": 157254979.0,
+     "outlier": "7.79x"
+    },
+    {
+     "title": "Ohio's 1986 Balloon Disaster",
+     "format": "Long-form",
+     "date": "2023-09-09",
+     "views": 21352301.0,
+     "outlier": "4.43x"
+    },
+    {
+     "title": "The Pepsi Contest That Killed 5 People",
+     "format": "Long-form",
+     "date": "2022-08-31",
+     "views": 12580518.0,
+     "outlier": "-"
+    },
+    {
+     "title": "13 Unreleased Videos I Thought Would Go Viral",
+     "format": "Long-form",
+     "date": "2026-05-09",
+     "views": 12157209.0,
+     "outlier": "1.57x"
+    },
+    {
+     "title": "Toyota's $2,300,000,000 Mistake",
+     "format": "Long-form",
+     "date": "2022-06-11",
+     "views": 10659976.0,
+     "outlier": "-"
+    },
+    {
+     "title": "The 10-Second Time Machine",
+     "format": "Long-form",
+     "date": "2026-07-18",
+     "views": 8076501.0,
+     "outlier": "1x"
+    }
+   ],
+   "latest": [
+    {
+     "title": "Researchers Discovered Crows Can Count \ud83d\ude2e",
+     "format": "Short",
+     "date": "2026-11-24",
+     "views": 7792176.0,
+     "outlier": "1.61x"
+    },
+    {
+     "title": "The Best Way To Make Mac And Cheese \ud83e\udd24",
+     "format": "Short",
+     "date": "2026-11-24",
+     "views": 6731931.0,
+     "outlier": "1.25x"
+    },
+    {
+     "title": "Caregiver Took A Patient\u2019s House For $5 \ud83e\udd28",
+     "format": "Short",
+     "date": "2026-11-24",
+     "views": 2436319.0,
+     "outlier": "0.51x"
+    },
+    {
+     "title": "How Electricity Reveals Hidden Fingerprints \ud83d\ude2e",
+     "format": "Short",
+     "date": "2026-11-24",
+     "views": 1746028.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Rat Chews Off Hibernating Tortoise\u2019s Legs \ud83d\ude1f",
+     "format": "Short",
+     "date": "2026-11-23",
+     "views": 7836911.0,
+     "outlier": "1.4x"
+    }
+   ],
+   "latest_shorts_n": 5,
+   "latest_shorts_median": 6731931.0,
+   "latest_shorts_max": 7836911.0,
+   "id": "@zackdfilms"
+  },
+  {
+   "name": "Captain Disillusion",
+   "subs": 2510000,
+   "total_views": 280798303,
+   "videos": 117,
+   "est_rev": "$330",
+   "as_of": "2026-11-26",
+   "subs_28d": 0,
+   "views_per_day": 8764.0,
+   "uploads_28d": 0,
+   "country": "United States",
+   "category": "Entertainment",
+   "joined": "2007-09-18",
+   "top": [
+    {
+     "title": "Music Video VFX Magic With ATARASHII GAKKO!",
+     "format": "Long-form",
+     "date": "2022-07-26",
+     "views": 2687470.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Orangutan Card Trick DEBUNK",
+     "format": "Long-form",
+     "date": "2023-05-02",
+     "views": 2457818.0,
+     "outlier": "1.09x"
+    },
+    {
+     "title": "CD / The Horrors of the Alpha Channel",
+     "format": "Long-form",
+     "date": "2022-10-22",
+     "views": 2041426.0,
+     "outlier": "3.95x"
+    },
+    {
+     "title": "Beckham Beach Kicks DEBUNK",
+     "format": "Long-form",
+     "date": "2024-08-02",
+     "views": 1978344.0,
+     "outlier": "1x"
+    },
+    {
+     "title": "Why No Debunks? #shorts",
+     "format": "Short",
+     "date": "2022-12-05",
+     "views": 7540961.0,
+     "outlier": "14.6x"
+    },
+    {
+     "title": "AlBot #vfx #animation #shorts",
+     "format": "Short",
+     "date": "2023-09-30",
+     "views": 5210236.0,
+     "outlier": "10.09x"
+    },
+    {
+     "title": "Coming clean about the wrench",
+     "format": "Short",
+     "date": "2023-10-06",
+     "views": 805400.0,
+     "outlier": "1.56x"
+    },
+    {
+     "title": "Find me at OpenSauce... before Captain Disillusion does!",
+     "format": "Short",
+     "date": "2025-07-09",
+     "views": 399751.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Captain's Alan's Digital Spaghetti's Movie Club",
+     "format": "Short",
+     "date": "2026-07-21",
+     "views": 289952.0,
+     "outlier": "-"
+    }
+   ],
+   "latest": [
+    {
+     "title": "Captain's Alan's Digital Spaghetti's Movie Club",
+     "format": "Short",
+     "date": "2026-07-21",
+     "views": 289952.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Find me at OpenSauce... before Captain Disillusion does!",
+     "format": "Short",
+     "date": "2025-07-09",
+     "views": 399751.0,
+     "outlier": "-"
+    },
+    {
+     "title": "CD / Blur",
+     "format": "Long-form",
+     "date": "2025-05-22",
+     "views": 1431554.0,
+     "outlier": "2.77x"
+    },
+    {
+     "title": "something funny right now",
+     "format": "Long-form",
+     "date": "2024-12-29",
+     "views": 494351.0,
+     "outlier": "-"
+    }
+   ],
+   "latest_shorts_n": 2,
+   "latest_shorts_median": 344851.5,
+   "latest_shorts_max": 399751.0,
+   "id": "@CaptainDisillusion"
+  },
+  {
+   "name": "The Infographics Show",
+   "subs": 15500000,
+   "total_views": 7056174115,
+   "videos": 6411,
+   "est_rev": "$210,000",
+   "as_of": "2026-11-26",
+   "subs_28d": 0,
+   "views_per_day": 2053112.0,
+   "uploads_28d": 52,
+   "country": "United States",
+   "category": "Education",
+   "joined": "2011-02-26",
+   "top": [
+    {
+     "title": "Dumb Ways To Die",
+     "format": "Short",
+     "date": "2021-10-10",
+     "views": 8992992.0,
+     "outlier": "-"
+    },
+    {
+     "title": "What Happened to Hitler's Body",
+     "format": "Short",
+     "date": "2022-11-03",
+     "views": 8949495.0,
+     "outlier": "-"
+    },
+    {
+     "title": "How Russians Are Avoiding the Draft #russia",
+     "format": "Short",
+     "date": "2023-04-07",
+     "views": 6664720.0,
+     "outlier": "-"
+    },
+    {
+     "title": "USA vs The World - Who Would Win",
+     "format": "Short",
+     "date": "2021-12-22",
+     "views": 6213028.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Zodiac Killer Identity Finally Revealed?",
+     "format": "Short",
+     "date": "2021-10-07",
+     "views": 6215958.0,
+     "outlier": "-"
+    },
+    {
+     "title": "How SEAL Team Took Down Osama bin Laden (Minute by Minute)",
+     "format": "Long-form",
+     "date": "2022-08-10",
+     "views": 20739725.0,
+     "outlier": "-"
+    },
+    {
+     "title": "What If North Korea Launched a Nuclear Bomb (Minute by Minute)",
+     "format": "Long-form",
+     "date": "2022-04-28",
+     "views": 13649318.0,
+     "outlier": "-"
+    },
+    {
+     "title": "What Happens To Your Body When Smoking Weed",
+     "format": "Long-form",
+     "date": "2023-10-18",
+     "views": 12815129.0,
+     "outlier": "33.53x"
+    },
+    {
+     "title": "50 Insane Declassified FBI Secrets You Didn\u2019t Know And More FBI Facts ",
+     "format": "Long-form",
+     "date": "2023-09-14",
+     "views": 12244240.0,
+     "outlier": "17.22x"
+    },
+    {
+     "title": "What Happened to Hitler's Body",
+     "format": "Long-form",
+     "date": "2022-07-25",
+     "views": 11715186.0,
+     "outlier": "-"
+    }
+   ],
+   "latest": [
+    {
+     "title": "Boeing and Airbus Are Facing a Windowless Challenger",
+     "format": "Long-form",
+     "date": "2026-11-24",
+     "views": 535884.0,
+     "outlier": "1.86x"
+    },
+    {
+     "title": "Why Did The 100 Million Search For MH370 Just End (Aviation Disaster C",
+     "format": "Long-form",
+     "date": "2026-11-24",
+     "views": 87895.0,
+     "outlier": "2.02x"
+    },
+    {
+     "title": "Cosmologists are rethinking the Big Bang now...",
+     "format": "Long-form",
+     "date": "2026-11-23",
+     "views": 776425.0,
+     "outlier": "1.89x"
+    },
+    {
+     "title": "Karma Just Hit HP Printers. Hard.",
+     "format": "Long-form",
+     "date": "2026-11-22",
+     "views": 1173332.0,
+     "outlier": "3.41x"
+    },
+    {
+     "title": "AI researchers are freaking out now...",
+     "format": "Long-form",
+     "date": "2026-11-21",
+     "views": 401451.0,
+     "outlier": "1.22x"
+    }
+   ],
+   "latest_shorts_n": 0,
+   "latest_shorts_median": null,
+   "latest_shorts_max": null,
+   "id": "@TheInfographicsShow"
+  },
+  {
+   "name": "BRIGHT SIDE",
+   "subs": 44500000,
+   "total_views": 11949664610,
+   "videos": 12149,
+   "est_rev": "$31,000",
+   "as_of": "2026-11-26",
+   "subs_28d": 0,
+   "views_per_day": 553973.0,
+   "uploads_28d": 95,
+   "country": null,
+   "category": "Education",
+   "joined": "2017-03-15",
+   "top": [
+    {
+     "title": "This Optical Illusion Will Trick Your Mind",
+     "format": "Short",
+     "date": "2023-05-08",
+     "views": 10190536.0,
+     "outlier": "-"
+    },
+    {
+     "title": "She Has The Longest Birth Certificate!",
+     "format": "Short",
+     "date": "2023-04-03",
+     "views": 3063108.0,
+     "outlier": "-"
+    },
+    {
+     "title": "You Won't Believe This Harry Potter Illusion",
+     "format": "Short",
+     "date": "2023-05-31",
+     "views": 800377.0,
+     "outlier": "-"
+    },
+    {
+     "title": "Starbucks Logo: The Secret Detail You've Never Spotted!",
+     "format": "Short",
+     "date": "2023-03-19",
+     "views": 741089.0,
+     "outlier": "-"
+    },
+    {
+     "title": "I've Tried the Easiest Way to Peel an Orange",
+     "format": "Short",
+     "date": "2021-12-10",
+     "views": 590508.0,
+     "outlier": "-"
+    },
+    {
+     "title": "The World Through the Eyes of Animals",
+     "format": "Long-form",
+     "date": "2023-05-14",
+     "views": 17733513.0,
+     "outlier": ">100x"
+    },
+    {
+     "title": "Detective Riddles Challenge: Further You Get, the Smarter You Are",
+     "format": "Long-form",
+     "date": "2022-05-28",
+     "views": 15337130.0,
+     "outlier": "-"
+    },
+    {
+     "title": "The Mystery of the Gobi Desert Monster",
+     "format": "Long-form",
+     "date": "2025-01-09",
+     "views": 14239372.0,
+     "outlier": ">100x"
+    },
+    {
+     "title": "Solve These 14 Escape Riddles To Stay Alive",
+     "format": "Long-form",
+     "date": "2021-10-19",
+     "views": 13096632.0,
+     "outlier": "-"
+    }
+   ],
+   "latest": [
+    {
+     "title": "Is Jupiter NOT a Planet After All?",
+     "format": "Long-form",
+     "date": "2026-11-25",
+     "views": 76722.0,
+     "outlier": "2x"
+    },
+    {
+     "title": "Geologists Finally Know What Wyoming's Devils Tower Really Is",
+     "format": "Long-form",
+     "date": "2026-11-24",
+     "views": 38213.0,
+     "outlier": "14.26x"
+    },
+    {
+     "title": "This Nonexistent Island Keep Showing Up on Maps",
+     "format": "Long-form",
+     "date": "2026-11-24",
+     "views": 20249.0,
+     "outlier": "17.94x"
+    },
+    {
+     "title": "This US Volcano Could Kill 90,000 People Without Erupting",
+     "format": "Long-form",
+     "date": "2026-11-23",
+     "views": 13834.0,
+     "outlier": "13.53x"
+    },
+    {
+     "title": "Scientists Found Something IMPOSSIBLE Beneath Antarctica's Ice - NOT B",
+     "format": "Long-form",
+     "date": "2026-11-23",
+     "views": 62028.0,
+     "outlier": "-"
+    }
+   ],
+   "latest_shorts_n": 0,
+   "latest_shorts_median": null,
+   "latest_shorts_max": null,
+   "id": "@BrightSideOfficial"
+  }
+ ]
+}
