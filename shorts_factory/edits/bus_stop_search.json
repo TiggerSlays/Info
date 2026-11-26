@@ -1,0 +1,177 @@
+{
+  "source": "/tmp/claude-0/-home-user-Info/894aa53e-8952-5f8f-8595-1b9e0c68ff42/scratchpad/ig/src.mp4",
+  "out": "/home/user/Info/output/commentary_bus_stop_search.mp4",
+  "credit": "IG: @pash_ion26",
+  "cuts": [
+    [
+      0.42,
+      2.42,
+      0.68
+    ],
+    [
+      4.0,
+      9.62
+    ],
+    [
+      10.3,
+      13.6
+    ],
+    [
+      23.75,
+      30.75
+    ],
+    [
+      35.05,
+      41.5
+    ]
+  ],
+  "speakers": {
+    "Bystander": "#5AD15A",
+    "Officer": "#E63C3C"
+  },
+  "lines": [
+    {
+      "t": [
+        0.0,
+        2.3
+      ],
+      "who": "Officer",
+      "text": "searches the teen's pockets",
+      "action": true,
+      "y": 880
+    },
+    {
+      "t": [
+        0.46,
+        2.36
+      ],
+      "who": "Bystander",
+      "text": "You guys do not have permission to search"
+    },
+    {
+      "t": [
+        4.08,
+        5.34
+      ],
+      "who": "Bystander",
+      "text": "Do you have a warrant to search them?"
+    },
+    {
+      "t": [
+        6.16,
+        6.96
+      ],
+      "who": "Bystander",
+      "text": "Do you have a warrant?"
+    },
+    {
+      "t": [
+        7.44,
+        9.52
+      ],
+      "who": "Bystander",
+      "text": "You're violating that constitutional rights."
+    },
+    {
+      "t": [
+        10.4,
+        11.94
+      ],
+      "who": "Bystander",
+      "text": "Do you have the right to search them?"
+    },
+    {
+      "t": [
+        11.96,
+        12.74
+      ],
+      "who": "Officer",
+      "text": "holds up an item",
+      "action": true
+    },
+    {
+      "t": [
+        12.76,
+        13.55
+      ],
+      "who": "Bystander",
+      "text": "That's medication."
+    },
+    {
+      "t": [
+        23.84,
+        25.2
+      ],
+      "who": "Bystander",
+      "text": "You're searching a minor,"
+    },
+    {
+      "t": [
+        25.2,
+        26.68
+      ],
+      "who": "Bystander",
+      "text": "and y'all don't supposed to search him."
+    },
+    {
+      "t": [
+        26.68,
+        28.0
+      ],
+      "who": "Bystander",
+      "text": "Y'all don't supposed to go in his pockets"
+    },
+    {
+      "t": [
+        28.0,
+        30.62
+      ],
+      "who": "Bystander",
+      "text": "unless you have a warrant for his arrest, a warrant for his search."
+    },
+    {
+      "t": [
+        35.14,
+        36.96
+      ],
+      "who": "Bystander",
+      "text": "You do not have the warrant for him,"
+    },
+    {
+      "t": [
+        36.96,
+        38.64
+      ],
+      "who": "Bystander",
+      "text": "y'all would get in a whole bunch of trouble."
+    },
+    {
+      "t": [
+        39.34,
+        40.5
+      ],
+      "who": "Bystander",
+      "text": "Y'all did it to my son too,"
+    },
+    {
+      "t": [
+        40.5,
+        41.45
+      ],
+      "who": "Bystander",
+      "text": "so I got those videos."
+    }
+  ],
+  "spotlights": [
+    {
+      "t": [
+        12.6,
+        13.6
+      ],
+      "x": 480,
+      "y": 950,
+      "zoom": 1.6,
+      "r": 200
+    }
+  ]
+}
