@@ -111,6 +111,7 @@ def build(script_path: str, out_dir: str) -> str:
     cmd = ["ffmpeg", "-y", "-v", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{scenes.W}x{scenes.H}", "-r", str(FPS), "-i", "-",
            "-i", audio_path, "-vf", vf,
+           "-af", "loudnorm=I=-14:TP=-1.5:LRA=11",  # YouTube plays back at ~-14 LUFS
            "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p",
            "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-shortest", out_mp4]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
